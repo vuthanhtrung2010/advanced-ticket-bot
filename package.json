@@ -1,0 +1,32 @@
+{
+  "name": "Advanced-Ticket-Bot",
+  "version": "1.0.0",
+  "description": "This is the Offical Github Link for the **Official** Ticket Bot code by Trung!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node cluster.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mipcit1010/Ticket-Bot/issues"
+  },
+  "homepage": "https://github.com/mipcit1010/Ticket-Bot#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "discord-html-transcripts": "^2.4.3",
+    "discord-hybrid-sharding": "^1.5.3",
+    "discord-modals": "^1.3.6",
+    "discord.js": "^13.7.0",
+    "express": "^4.18.1",
+    "glob": "^8.0.3",
+    "mongoose": "^6.3.3",
+    "node-fetch": "^2.6.7",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {
+    "node": "^16.13.2"
+  }
+}

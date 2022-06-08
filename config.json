@@ -1,0 +1,30 @@
+
+{  
+  "token": "",
+  "prefix": "$",
+  "activity": "/help | watching tickets ✌️ | On Cluster: {shards} | Trung#0639!",
+  "type": "LISTENING",
+  "status": "dnd",
+  
+  "COMMENT": "Only enable hostingweb if you are using replit!",
+  "hostingweb": true,
+  
+  "developers": ["945884494827761725"],
+
+
+
+  "color": {
+    "main"   : "#3903ff",
+    "error"  : "#ff5f8e",
+    "success": "#99ff9c",
+
+    "red"   : "#ff5a48",
+    "orange": "#ffca4d",
+    "yellow": "#ffcc5c",
+    "green" : "#74ff89",
+    "purple": "#7d5eff",
+    "pink"  : "#ff88d2",
+    "grey"  : "#4b4b4b",
+    "white" : "#ffffff"
+  }
+}
